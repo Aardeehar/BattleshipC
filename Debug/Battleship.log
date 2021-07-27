@@ -1,0 +1,14 @@
+﻿  BoardImplementation.cpp
+C:\Users\aarde\Desktop\Muller-Hartle_PROJ2\BoardImplementation.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\aarde\Desktop\Muller-Hartle_PROJ2\BoardImplementation.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ComputerImplementation.cpp
+  GameImplementation.cpp
+C:\Users\aarde\Desktop\Muller-Hartle_PROJ2\GameImplementation.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  HumanPlayerImplementation.cpp
+  PlayerImplementation.cpp
+  ProjectTwo.cpp
+  RandomImplementation.cpp
+C:\Users\aarde\Desktop\Muller-Hartle_PROJ2\RandomImplementation.cpp(5,26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\aarde\Desktop\Muller-Hartle_PROJ2\BoardImplementation.cpp(155): warning C4715: 'Board::makeMove': not all control paths return a value
+  Battleship.vcxproj -> C:\Users\aarde\Desktop\Muller-Hartle_PROJ2\Debug\Battleship.exe
